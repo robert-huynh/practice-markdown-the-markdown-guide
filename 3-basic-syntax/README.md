@@ -13,13 +13,14 @@
 ###### Heading level 6
 
 - Alternate Syntax:
+
 Heading level 1
 
-==
+===
 
 Heading level 2
 
---
+---
 
 ## Paragraphs
 
