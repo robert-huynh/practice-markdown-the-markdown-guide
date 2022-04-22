@@ -33,7 +33,7 @@ I think I'll use it from now on.
 
 - Markdown:
 
-This is the first line.  (add >= 2 spaces)
+This is the first line. (add >= 2 spaces)  
 And this is the second line.
 
 ## Emphasis
