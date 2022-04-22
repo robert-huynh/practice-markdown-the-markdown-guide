@@ -33,7 +33,7 @@ I think I'll use it from now on.
 
 - Markdown:
 
-This is the first line.  
+This is the first line.  (add >= 2 spaces)
 And this is the second line.
 
 ## Emphasis
@@ -102,4 +102,89 @@ __*Important*__ text.
 > - Profits were higher than ever.
 >
 > *Everything* is going **well**.
+
+## Lists
+
+### Ordered Lists
+
+- Markdown (3 results are same):
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+-
+
+1. First item
+1. Second item
+1. Third item
+1. Fourth item
+
+-
+
+1. First item
+8. Second item
+3. Third item
+5. Fourth item
+
+### Nesting List Items
+
+1. First item
+2. Second item
+3. Third item
+    1. Nested item (indent the item 4 spaces)
+    2. Nested item
+4. Fourth item
+
+### Unordered Lists
+
+- Markdown (use "-", "*", "+"):
+
+- First item
+- Second item
+- Third item
+- Fourth item
+
+* First item
+* Second item
+* Third item
+* Fourth item
+
++ First item
++ Second item
++ Third item
++ Fourth item
+
+### Nesting List items
+
+- Markdown:
+
+- First item
+- Second item
+- Third item
+    - Intended item (add 4 spaces)
+    - Intended item
+- Fourth item
+
+### Adding Elements in Lists
+
+#### Paragraphs
+
+- Markdown:
+
+* This is the first list item.
+* This is the second list item.
+    I need to add another paragraph below the second list item. (add 4 spaces)
+* This is the third list item.
+
+#### Blockquotes
+
+- Markdown:
+
+* This is the first list item.
+* This is the second list item.
+    > A blockquote would look great here. (add 4 spaces)
+* This is the third list item.
+
 
