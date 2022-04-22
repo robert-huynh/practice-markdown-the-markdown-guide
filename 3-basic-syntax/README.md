@@ -35,7 +35,7 @@ I think I'll use it from now on.
 
 - Markdown:
 
-This is the first line.
+This is the first line.  
 And this is the second line.
 
 ## Emphasis
@@ -89,6 +89,7 @@ __*Important*__ text.
 ### Nested Blockquotes
 
 - Markdown:
+
 > This is the first paragraph.
 > 
 >> This is the nested paragraph.
@@ -96,6 +97,7 @@ __*Important*__ text.
 ### Blockquotes with Other Elements
 
 - Markdown:
+
 > ##### The quarterly results look great!
 > 
 > - Revenue was off the chart.
