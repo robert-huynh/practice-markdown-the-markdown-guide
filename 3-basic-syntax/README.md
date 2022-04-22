@@ -5,6 +5,7 @@
 ## Heading
 
 - Markdown:
+
 # Heading level 1
 ## Heading level 2
 ### Heading level 3
@@ -16,7 +17,7 @@
 
 Heading level 1
 
-===
+===============
 
 Heading level 2
 
@@ -25,6 +26,7 @@ Heading level 2
 ## Paragraphs
 
 - Markdown:
+
 I really like using Markdown.
 
 I think I'll use it from now on.
@@ -32,6 +34,7 @@ I think I'll use it from now on.
 ## Line break
 
 - Markdown:
+
 This is the first line.
 And this is the second line.
 
@@ -40,6 +43,7 @@ And this is the second line.
 ### Bold
 
 - Markdown:
+
 I love **bold text**.
 
 I love __bold text__.
@@ -49,6 +53,7 @@ Love**is**bold.
 ### Italic
 
 - Markdown:
+
 The *cat's meow*.
 
 The _cat's meow_.
@@ -70,11 +75,13 @@ __*Important*__ text.
 ## Blockquotes
 
 - Markdown:
+
 > Dorothy followed her through many rooms.
 
 ### Blockquotes with Multiple Paragraphs
 
 - Markdown:
+
 > This is the first paragraph.
 >
 > This is the second paragraph.
