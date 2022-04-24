@@ -174,7 +174,7 @@ __*Important*__ text.
 - Markdown:
 
 * This is the first list item.
-* This is the second list item.
+* This is the second list item.  
     I need to add another paragraph below the second list item. (add 4 spaces)
 * This is the third list item.
 
@@ -187,4 +187,56 @@ __*Important*__ text.
     > A blockquote would look great here. (add 4 spaces)
 * This is the third list item.
 
+## Code blocks
 
+- Markdown (add 8 spaces):
+
+1. Open the file.
+2. Find the following code block on line 21:
+
+        <html>
+          <head>
+            <title>Test</title>
+          </head>
+
+3. Update the title to match the name of your website.        
+        
+## Images
+
+- Markdown:
+
+1. Open the file containing Tux, the Linux mascot.
+2. Marvel at its beauty.
+
+    ![Tux](tux.jpg)
+
+3. Close the file.
+
+## Code
+
+- Markdown:
+
+At the command prompt, type `nano`.
+
+## Escaping Tick Marks
+
+- Markdown (use 2 tick marks):
+
+``Use `code` in your Markdown file.``
+
+## Code blocks
+
+- Mark down (use 4 spaces):
+
+    <html>
+      <head>
+      </head>
+    </html>
+
+## Horizontal rules
+
+- Markdown ("***", "---", "___"):
+
+***
+---
+___
