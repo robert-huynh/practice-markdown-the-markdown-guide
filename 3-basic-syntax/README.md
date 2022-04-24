@@ -174,7 +174,7 @@ __*Important*__ text.
 - Markdown:
 
 * This is the first list item.
-* This is the second list item.  
+* This is the second list item. (Add here 2 spaces)  
     I need to add another paragraph below the second list item. (add 4 spaces)
 * This is the third list item.
 
