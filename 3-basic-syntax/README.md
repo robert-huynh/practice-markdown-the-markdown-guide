@@ -226,12 +226,12 @@ At the command prompt, type `nano`.
 
 ## Code blocks
 
-- Mark down (use 4 spaces):
+- Mark down (use 8 spaces):
 
-    <html>
-      <head>
-      </head>
-    </html>
+        <html>
+            <head>
+            </head>
+        </html>
 
 ## Horizontal rules
 
