@@ -240,3 +240,38 @@ At the command prompt, type `nano`.
 ***
 ---
 ___
+
+## Links
+
+- Markdown:
+
+Use [Google](https://www.google.com/)
+
+### Adding Titles
+
+- Markdown:
+
+Use [Google](https://www.google.com "Search!")
+
+### URLs and Email Addresses
+
+- Markdown:
+
+<https://www.google.com/>
+<fake@email.com>
+
+### Formatting Links
+
+- Markdown:
+
+I love supporting **[Google](https://www.google.com/)**.
+I love supporting *[Google](https://www.google.com/)*.
+
+
+### Reference-style Links
+
+- Markdown:
+
+[Google][1] is a search program.
+
+[1]: <https://www.google.com/> "Search!"
