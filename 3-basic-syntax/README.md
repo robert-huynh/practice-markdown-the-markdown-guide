@@ -208,7 +208,7 @@ __*Important*__ text.
 1. Open the file containing Tux, the Linux mascot.
 2. Marvel at its beauty.
 
-    ![Tux](tux.jpg)
+    ![Tux](tux.jpg "This is a title")
 
 3. Close the file.
 
@@ -275,3 +275,10 @@ I love supporting *[Google](https://www.google.com/)*.
 [Google][1] is a search program.
 
 [1]: <https://www.google.com/> "Search!"
+
+
+## Escaping Characters
+
+- Markdown:
+
+\* Without the blackslash, this would be a bullet in an unordered list.
