@@ -51,3 +51,54 @@ Here's a simple footnote, [^1] and here's a longer one. [^bignote]
   Indent paragraph to include them in the footnote.
   `{ my code }`
   Add as many paragraph as you like.
+
+## Heading IDs
+
+- Markdown:
+
+#### My Great Heading {#heading-4}
+
+### Linking to Heading IDs
+
+- Markdown:
+
+[Go to heading 4 section](#heading-4)
+
+## Definition Lists
+
+- Markdown:
+
+First Term
+: This is the definition of the first term.
+
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
+
+## Strikethrough
+
+- Markdown (~~):
+
+The world is ~~flat~~ round
+
+## Task Lists
+
+- Markdown ([x]):
+
+- [x] Write the press release
+- [] Update the website
+- [] Contact the media
+
+## Automatic URL linking
+
+- Markdown:
+
+http://example.com
+
+### Disable Automatic URL linking
+
+- Markdown:
+
+`http://example.com`
+
+
